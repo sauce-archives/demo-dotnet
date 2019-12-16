@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DotnetFramework", "DotnetFr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Appium", "Appium", "{9D484871-5DE8-429F-975E-DF1B132906AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appium4.NUnit.Framework", "Appium4.NUnit.Framework\Appium4.NUnit.Framework.csproj", "{2200B23A-DE73-41E9-B5B7-56E88DD19A50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{346800AC-0743-4AA5-9683-21A918C8E09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{346800AC-0743-4AA5-9683-21A918C8E09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{346800AC-0743-4AA5-9683-21A918C8E09F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2200B23A-DE73-41E9-B5B7-56E88DD19A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2200B23A-DE73-41E9-B5B7-56E88DD19A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2200B23A-DE73-41E9-B5B7-56E88DD19A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2200B23A-DE73-41E9-B5B7-56E88DD19A50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +32,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{346800AC-0743-4AA5-9683-21A918C8E09F} = {9D484871-5DE8-429F-975E-DF1B132906AD}
 		{9D484871-5DE8-429F-975E-DF1B132906AD} = {A4AB8989-1879-4BE1-A31F-6CFE3184C8C4}
+		{2200B23A-DE73-41E9-B5B7-56E88DD19A50} = {9D484871-5DE8-429F-975E-DF1B132906AD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {995FEE76-5202-413C-98B6-02F1E4F460B5}
